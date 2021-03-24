@@ -1,0 +1,6 @@
+[submodule "Hindi-Hostility-Detection-CONSTRAINT-2021"]
+	path = Hindi-Hostility-Detection-CONSTRAINT-2021
+	url = https://github.com/mohit19014/Hindi-Hostility-Detection-CONSTRAINT-2021
+[submodule "covid19-fake-news-detection"]
+	path = covid19-fake-news-detection
+	url = https://github.com/parthpatwa/covid19-fake-news-detection
